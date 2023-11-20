@@ -1,0 +1,8 @@
+.audio-react-recorder{
+  position: relative;
+}
+.audio-react-recorder>canvas{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
